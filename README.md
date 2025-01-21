@@ -18,7 +18,7 @@ This the GitHub repository for our CSE291 project. We explore Quantized Side tun
 
 1. git clone the repo
    ```
-   git clone https://github.com/Singla17/291_LLM_Reasoning.git
+   git clone https://github.com/smruthig/Quantised-Side-Tuning-Enhancement.git
 2. install requirements
    ```
    cd QST
